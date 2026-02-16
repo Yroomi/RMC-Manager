@@ -1,1 +1,20 @@
+```txt
+Django==5.0.1
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+psycopg2-binary==2.9.9
+python-decouple==3.8
+django-cors-headers==4.3.1
+django-filter==23.5
+Pillow==10.2.0
+boto3==1.34.34
+gunicorn==21.2.0
+whitenoise==6.6.0
+celery==5.3.6
+redis==5.0.1
+reportlab==4.0.9
+openpyxl==3.1.2
+python-dateutil==2.8.2
+```
 
+---
