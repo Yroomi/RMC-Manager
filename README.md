@@ -633,12 +633,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-**Product Owner:** [Your Name]  
-**Technical Lead:** [Name]  
-**Backend Team:** [Names]  
-**Frontend Team:** [Names]  
-**DevOps:** [Name]  
-**QA:** [Name]
+**Product Owner:** Yousuf Ali
+**Technical Lead:** Ghazi Johar
+**Backend Team:** Ghazi Johar
+**Frontend Team:** Ghazi Johar
+**DevOps:** Ghazi Johar
+
 
 ---
 
